@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Frist API Project.props" />
+</Project>
